@@ -1,2 +1,2 @@
 # Getting-Started-as-User-Assistance-Developer
-Getting started as a user assistance developer
+This project is for the "Technical Writing: How to Write Software Documentation".
